@@ -1,8 +1,13 @@
-### Hi there <img src="https://github.com/ritwikbagga/ritwikbagga/blob/main/wave.gif" width="30px">
+# :man_technologist: Hi there! <img src="https://github.com/ritwikbagga/ritwikbagga/blob/main/wave.gif" width="30px">
+
+
+## About Me
+
+A typical software nerd with Elon Musk poster in his room. 
 
 - 🔭 I’m currently working on personal projects and graduating in May 2021 with a BS in CS and Math from UMass Amherst
 
-- 🌱 I’m interested in Machine Learning, backend engineering and Automation
+- 🌱 I’m interested in machine learning, backend engineering and Automation
 
 - 👯 I’m looking to collaborate on opensource projects on Kaggle
 
