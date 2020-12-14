@@ -9,7 +9,7 @@ A typical software nerd who knows how to play the drums
 
 - 🌱 I’m interested in machine learning, backend engineering and Automation
 
-- 👯 I’m looking to collaborate on opensource projects on Kaggle
+- 👯 I’m looking to collaborate on open source projects on Kaggle
 
 - 💬 Let's talk about music, technology and fitness
 
