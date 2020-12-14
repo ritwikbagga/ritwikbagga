@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/ritwikbagga/ritwikbagga/blob/main/wave.gif" width="30px">
 
-<!--
-**ritwikbagga/ritwikbagga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on personal projects and graduating in May 2021 with a BS in CS and Math from UMass Amherst
 
-Here are some ideas to get you started:
+- 🌱 I’m interested in Machine Learning, backend engineering and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on opensource projects on Kaggle
+
+- 💬 Let's talk about music, technology and fitness
+
+- 😄 Pronouns: He/Him/His
+
+- ⚡ Fun fact: I am drummer and have been part of different rock bands 
+
+## Let's Connect 
+[<img align="left" alt="ritwik bagga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
