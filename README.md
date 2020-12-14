@@ -3,7 +3,7 @@
 
 ## About Me
 
-A typical software nerd with an Elon Musk poster in his room. 
+A typical software nerd who knows how to play the drums
 
 - 🔭 I’m currently working on personal projects and graduating in May 2021 with a BS in CS and Math from UMass Amherst
 
