@@ -10,7 +10,8 @@
 
 - 😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: I am drummer and have been part of different rock bands 
+- ⚡ Fun fact: chai > coffee
 
-## Let's Connect 
-[<img align="left" alt="ritwik bagga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Let's Connect
+
+[![Linkedin Badge](https://img.shields.io/badge/-ritwikbagga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritwikbagga98/)](https://www.linkedin.com/in/ritwikbagga98/)
