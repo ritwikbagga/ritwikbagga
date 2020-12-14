@@ -7,7 +7,7 @@ A typical software nerd who knows how to play the drums
 
 - 🔭 I’m currently working on personal projects and graduating in May 2021 with a BS in CS and Math from UMass Amherst
 
-- 🌱 I’m interested in machine learning, backend engineering and Automation
+- 🌱 I’m interested in automation, machine learning, backend engineering and data engineering
 
 - 👯 I’m looking to collaborate on open source projects on Kaggle
 
